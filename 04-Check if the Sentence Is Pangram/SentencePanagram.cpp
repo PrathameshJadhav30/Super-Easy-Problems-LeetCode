@@ -22,3 +22,11 @@ public:
         return true; // All letters are present
     }
 };
+
+// A pangram is a sentence that contains every letter of the alphabet at least once. To check if a sentence is a pangram, you can follow these steps:
+
+
+
+
+
+
