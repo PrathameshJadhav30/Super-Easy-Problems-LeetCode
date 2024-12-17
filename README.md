@@ -2,7 +2,7 @@
 This repository contains solutions to super easy problems from LeetCode, aimed at helping beginners and aspiring programmers develop a solid foundation in problem-solving and coding.
 
 # 📚 Overview
-- The problems in this repository are selected based on their simplicity, making them ideal for:
+    # The problems in this repository are selected based on their simplicity, making them ideal for:
 
 - New programmers learning basic coding concepts.
 - Practicing core programming skills like loops, conditionals, arrays, and strings.
@@ -28,7 +28,16 @@ This repository contains solutions to super easy problems from LeetCode, aimed a
 - Test edge cases: Handle special inputs like empty strings, arrays, or zero values.
 - Comment your code: Write clean and well-documented code.
 
-#⭐ Acknowledgments
+  ## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
+
+
+# ⭐ Acknowledgments
 - LeetCode for providing high-quality coding problems.
 - C++ community for its rich resources and tutorials.
 - If you find this repository helpful, give it a ⭐ star and share it with others!
