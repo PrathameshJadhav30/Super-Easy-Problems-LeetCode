@@ -2,7 +2,7 @@
 This repository contains solutions to super easy problems from LeetCode, aimed at helping beginners and aspiring programmers develop a solid foundation in problem-solving and coding.
 
 # 📚 Overview
-    # The problems in this repository are selected based on their simplicity, making them ideal for:
+The problems in this repository are selected based on their simplicity, making them ideal for:
 
 - New programmers learning basic coding concepts.
 - Practicing core programming skills like loops, conditionals, arrays, and strings.
